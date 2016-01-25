@@ -1,2 +1,2 @@
 # docker-mysql
-Docker MySQL 5.6 on Debian jessie
+Docker Debian 8, MySQL 5.7
